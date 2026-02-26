@@ -1,0 +1,21 @@
+body{
+    background-color: #FFFDE1;
+}
+.home-title{
+    text-align: center;
+    background-color: #980404;
+    padding: 30px;
+    margin: 0px;
+}
+li{
+    margin: 10px;
+}
+
+a:hover{
+    background-color: #FBE580;
+}
+.page-title{
+    background-color: #980404;
+    padding: 20px;
+    margin: 0px 
+}
